@@ -1,0 +1,77 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+     background-color: rgb(79, 5, 216);
+     margin-bottom: 3000px;
+    
+ }
+li {
+    display: inline-block;
+    padding-right: 7%;
+    margin: 10px 0 0 0;
+    font-size: 36px;
+    margin-bottom: 200px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: #ff7a7a;
+}
+ header {
+    color: white;
+}
+section nav {
+    color: white;
+    font-size: 25px;
+}
+
+.logo a {
+	background-image: url("50ad36f6-afde-4bc6-843e-ddbec3d3a6fa_200x200.png");
+	background-size: 90px;
+	background-repeat: no-repeat;
+	display: inline-block;
+	height: 100px;
+	width: 111px;
+	text-indent: -999999px;
+	position: relative;
+    top: -15px;
+}
+ .categories  {
+    margin-bottom: 407px;
+    text-align: center;
+    font-size: 30px;
+}
+
+#middle {
+    text-align: center;
+}
+#mybutton {
+   color: black;
+   background-color: blue;
+   border-radius: 5px;
+}
+#choices li  {
+    color: black;
+   background-color: blue;
+   border:  black solid;
+  padding-left: 7%;
+}
+
+img {
+    border: black 4px solid;
+}
+ .socialMedia h1 {
+  color: white;
+ }
+.socialMedia a {
+    padding-right: 7%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 40px;
+   
+}
+
